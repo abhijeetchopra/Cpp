@@ -10,4 +10,4 @@ run:
 	./program.out
 
 clean:
-	rm analysis_*.txt
+	rm analysis_*.txt analysis_csv.csv
